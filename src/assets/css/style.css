@@ -1,0 +1,22 @@
+.fo-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dot {
+  width: 20px;
+  height: 20px;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  vertical-align: middle;
+}
+
+.my-selecting rect {
+  stroke: deepskyblue;
+  stroke-width: 2px;
+}
